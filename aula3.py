@@ -11,9 +11,9 @@ nota = 7
 
 if nota >= 7:
     print("Aprovado")
-elif nota != 0,1,2,3,4:
+elif nota <= 5:
     print("Recuperação")
-else nota <= 5:
+else:
     print("Reprovado")
 
 # Exercício 3: Par ou Impar
