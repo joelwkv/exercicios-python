@@ -17,7 +17,8 @@ else:
     print("Reprovado")
 
 # Exercício 3: Par ou Impar
-    if numero % 5 == 1:
+numero = 8
+    if numero % 2 == 0:
     print("Par")
 else:
     print("Ímpar")
